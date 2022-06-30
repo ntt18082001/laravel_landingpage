@@ -8,6 +8,7 @@
    <title>Document</title>
    <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
    <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
+   <link rel="stylesheet" href="{{ asset('assets/css/custom-timeline.css') }}">
 </head>
 
 <body>
@@ -21,6 +22,7 @@
    <script src="{{ asset('assets/js/jquery-3.6.0.min.js') }}"></script>
    <script src="{{ asset('assets/js/bootstrap.bundle.min.js') }}"></script>
    <script src="{{ asset('assets/js/script.js') }}"></script>
+   <script src="{{ asset('assets/js/timeline.js') }}"></script>
 </body>
 
 </html>

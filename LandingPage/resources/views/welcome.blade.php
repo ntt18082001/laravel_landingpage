@@ -9,6 +9,8 @@
 
     <x-about />
 
+    <x-staff />
+
     <x-register />
 
     <!-- Modal -->

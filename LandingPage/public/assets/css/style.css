@@ -2,6 +2,7 @@
    --primary-color: rgb(214, 5, 97);
    --secondary-color: rgb(117, 117, 117);
    --dark-color: rgb(33, 33, 33);
+   --white-color: #FFFFFF;
 }
 
 *, body {
@@ -82,9 +83,23 @@ li {
 
 .product .product-title {
    color: var(--dark-color);
-   font-size: 24px;
+   font-size: 30px;
    text-align: center;
    font-weight: 400;
+}
+
+.product .product-title-sub {
+   color: var(--dark-color);
+   font-size: 30px;
+   text-align: center;
+   font-weight: bold;
+}
+
+.product .congdung {
+   color: var(--dark-color);
+   font-style: italic;
+   font-size: 35px;
+   overflow: hidden;
 }
 
 .product .product-item .product-img {
@@ -147,21 +162,21 @@ li {
    width: 119px;
 }
 
-.infomation .info-item .info-item-img {
+.infomation .info-item .info-item-img{
    width: 79px;
    height: 73px;
    border-radius: 100%;
-   margin-bottom: 15px
+   margin-bottom: 15px;
 }
 
-.infomation .info-item .info-item-name {
+.infomation .info-item .info-item-name, .staff-item-sub {
    font-size: 20px;
    color: var(--dark-color);
    font-weight: bold;
    line-height: 1.2;
 }
 
-.infomation .info-item .info-item-sub {
+.infomation .info-item .info-item-sub, .staff-item-name {
    font-size: 20px;
    color: var(--primary-color);
    font-style: italic;
@@ -247,4 +262,138 @@ li {
       width: 225px;
       height: 225px;
   }
+}
+
+.box-thanhphan {
+   overflow: hidden;
+   background-attachment: scroll;
+   background-origin: content-box;
+   background-image: url(../img/img-buy-now.png);
+   background-position: center top;
+   background-repeat: repeat;
+   background-size: cover;
+   color: var(--white-color);
+}
+
+.box-thanhphan .product-title {
+   color: var(--white-color);
+}
+
+.txt-thanhphan {
+   text-align: center;
+   font-size: 20px;
+
+}
+
+.thanhphan {
+   position: relative;
+   height: 650px;
+   display: flex;
+}
+
+.thanhphan .img-thanhphan {
+   width: 450px;
+   height: 450px;
+   margin: auto;
+   border: 1px solid #000;
+   border-radius: 100rem;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+
+.thanhphan .img-thanhphan img {
+   width: 50%;
+}
+
+.thanhphan .tp {
+   position: absolute;
+}
+
+.thanhphan .thanhphan-main {
+   padding: 15px;
+   top: 50px;
+   left: 575px;
+   text-align: center;
+   display: flex;
+   align-items: center;
+}
+
+.thanhphan .tp h4 {
+   font-size: 30px;
+   margin-left: 15px;
+}
+
+.thanhphan .tp img {
+   width: 90px;
+   height: 90px;
+   border-radius: 100rem;
+}
+
+.thanhphan .thanhphan-main2 {
+   padding: 15px;
+   top: 150px;
+   left: 290px;
+   text-align: center;
+   display: flex;
+   align-items: center;
+}
+
+.thanhphan .thanhphan-main3 {
+   padding: 15px;
+   top: 350px;
+   left: 290px;
+   text-align: center;
+   display: flex;
+   align-items: center;
+}
+
+.thanhphan .thanhphan-main4 {
+   padding: 15px;
+   top: 480px;
+   left: 470px;
+   text-align: center;
+   display: flex;
+   align-items: center;
+}
+
+.thanhphan .thanhphan-main2 h4, .thanhphan .thanhphan-main3 h4, .thanhphan .thanhphan-main4 h4 {
+   margin-left: 0;
+   margin-right: 15px;
+}
+
+.thanhphan .thanhphan-main5 {
+   padding: 15px;
+   top: 150px;
+   left: 770px;
+   text-align: center;
+   display: flex;
+   align-items: center;
+}
+
+.thanhphan .thanhphan-main6 {
+   padding: 15px;
+   top: 350px;
+   left: 770px;
+   text-align: center;
+   display: flex;
+   align-items: center;
+}
+
+.staff-box-img {
+   width: 110px;
+   height: 110px;
+   border-radius: 100rem;
+   border: 1px solid #000;
+   margin-bottom: 15px;
+   margin: auto;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.staff-box-img .staff-item-img {
+   width: 90px;
+   height: 90px;
+   border-radius: 100rem;
 }
