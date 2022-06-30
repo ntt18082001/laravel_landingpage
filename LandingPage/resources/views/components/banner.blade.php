@@ -3,7 +3,7 @@
        <div class="row">
            <div class="col-md-6 col-sm-12"></div>
            <div class="col-md-6 col-sm-12 text-sm-center text-md-start">
-               <img src="./img/ca5e4e85-3e43-4372-845e-87f5b3c0711f.png" alt="">
+               <img src="{{ asset('assets/img/img-banner-ring.png') }}" alt="">
                <h3 class="banner-title">BST Nhẫn Cưới</h3>
                <h4 class="banner-slogan d-md-flex">
                    <span>Salsa</span>

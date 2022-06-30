@@ -4,7 +4,7 @@
    <div class="row mt-5">
        <div class="col-md-3 col-sm-12 product-item">
            <div class="card" style="width: 18rem;">
-               <img src="{{ asset('img/d0537081-7cee-4556-a4ef-d4c294275948.png') }}" class="card-img-top"
+               <img src="{{ asset('assets/img/img-product.png') }}" class="card-img-top"
                    alt="...">
                <div class="card-body">
                    <h5 class="card-title text-center">Sản phẩm 01</h5>
@@ -13,7 +13,7 @@
        </div>
        <div class="col-md-3 col-sm-12 product-item">
            <div class="card" style="width: 18rem;">
-               <img src="{{ asset('img/d0537081-7cee-4556-a4ef-d4c294275948.png') }}" class="card-img-top"
+               <img src="{{ asset('assets/img/img-product.png') }}" class="card-img-top"
                    alt="...">
                <div class="card-body">
                    <h5 class="card-title text-center">Sản phẩm 01</h5>
@@ -22,7 +22,7 @@
        </div>
        <div class="col-md-3 col-sm-12 product-item">
            <div class="card" style="width: 18rem;">
-               <img src="{{ asset('img/d0537081-7cee-4556-a4ef-d4c294275948.png') }}" class="card-img-top"
+               <img src="{{ asset('assets/img/img-product.png') }}" class="card-img-top"
                    alt="...">
                <div class="card-body">
                    <h5 class="card-title text-center">Sản phẩm 01</h5>
@@ -31,7 +31,7 @@
        </div>
        <div class="col-md-3 col-sm-12 product-item">
            <div class="card" style="width: 18rem;">
-               <img src="{{ asset('img/d0537081-7cee-4556-a4ef-d4c294275948.png') }}" class="card-img-top"
+               <img src="{{ asset('assets/img/img-product.png') }}" class="card-img-top"
                    alt="...">
                <div class="card-body">
                    <h5 class="card-title text-center">Sản phẩm 01</h5>
@@ -40,7 +40,7 @@
        </div>
        <div class="col-md-3 col-sm-12 product-item">
            <div class="card" style="width: 18rem;">
-               <img src="{{ asset('img/d0537081-7cee-4556-a4ef-d4c294275948.png') }}" class="card-img-top"
+               <img src="{{ asset('assets/img/img-product.png') }}" class="card-img-top"
                    alt="...">
                <div class="card-body">
                    <h5 class="card-title text-center">Sản phẩm 01</h5>
@@ -49,7 +49,7 @@
        </div>
        <div class="col-md-3 col-sm-12 product-item">
            <div class="card" style="width: 18rem;">
-               <img src="{{ asset('img/d0537081-7cee-4556-a4ef-d4c294275948.png') }}" class="card-img-top"
+               <img src="{{ asset('assets/img/img-product.png') }}" class="card-img-top"
                    alt="...">
                <div class="card-body">
                    <h5 class="card-title text-center">Sản phẩm 01</h5>
@@ -58,7 +58,7 @@
        </div>
        <div class="col-md-3 col-sm-12 product-item">
            <div class="card" style="width: 18rem;">
-               <img src="{{ asset('img/d0537081-7cee-4556-a4ef-d4c294275948.png') }}" class="card-img-top"
+               <img src="{{ asset('assets/img/img-product.png') }}" class="card-img-top"
                    alt="...">
                <div class="card-body">
                    <h5 class="card-title text-center">Sản phẩm 01</h5>
@@ -67,7 +67,7 @@
        </div>
        <div class="col-md-3 col-sm-12 product-item">
            <div class="card" style="width: 18rem;">
-               <img src="{{ asset('img/d0537081-7cee-4556-a4ef-d4c294275948.png') }}" class="card-img-top"
+               <img src="{{ asset('assets/img/img-product.png') }}" class="card-img-top"
                    alt="...">
                <div class="card-body">
                    <h5 class="card-title text-center">Sản phẩm 01</h5>

@@ -6,7 +6,7 @@
    </div>
    <div class="row mt-5">
        <div class="col-md-4 col-sm-12 info-item text-center">
-           <img class="info-item-img" src="./img/avt.jpg" alt="">
+           <img class="info-item-img" src="{{ asset('assets/img/avt.jpg') }}" alt="">
            <h4 class="info-item-name">Thu Hồng</h4>
            <h4 class="info-item-sub">TỔNG GIÁM ĐỐC</h4>
            <p class="paragraph">
@@ -16,7 +16,7 @@
            </p>
        </div>
        <div class="col-md-4 col-sm-12 info-item text-center">
-           <img class="info-item-img" src="./img/avt.jpg" alt="">
+           <img class="info-item-img" src="{{ asset('assets/img/avt.jpg') }}" alt="">
            <h4 class="info-item-name">Thu Hồng</h4>
            <h4 class="info-item-sub">TỔNG GIÁM ĐỐC</h4>
            <p class="paragraph">
@@ -26,7 +26,7 @@
            </p>
        </div>
        <div class="col-md-4 col-sm-12 info-item text-center">
-           <img class="info-item-img" src="./img/avt.jpg" alt="">
+           <img class="info-item-img" src="{{ asset('assets/img/avt.jpg') }}" alt="">
            <h4 class="info-item-name">Thu Hồng</h4>
            <h4 class="info-item-sub">TỔNG GIÁM ĐỐC</h4>
            <p class="paragraph">

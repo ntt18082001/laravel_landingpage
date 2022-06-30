@@ -35,7 +35,7 @@ li {
 
 .banner {
    height: 633px;
-   background-image: url(../img/363abedc-3ffc-4c91-8f87-69ab87e682c4.jpg);
+   background-image: url(../img/img-banner-background.jpg);
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center top;
@@ -102,7 +102,7 @@ li {
    height: 401px;
    background-attachment: scroll;
    background-origin: content-box;
-   background-image: url(../img/7c445116-d9cf-41e7-9348-7861c65aba17.png);
+   background-image: url(../img/img-buy-now.png);
    background-position: center top;
    background-repeat: repeat;
    background-size: cover;

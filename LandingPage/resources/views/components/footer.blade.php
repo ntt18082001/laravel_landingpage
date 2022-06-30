@@ -2,7 +2,7 @@
    <div class="container">
       <div class="row text-sm-center text-md-start">
          <div class="col-md-6 col-sm-12">
-            <img class="footer-logo" src="./img/logo.png" alt="">
+            <img class="footer-logo" src="{{ asset('assets/img/logo.png') }}" alt="">
             <h4 class="footer-title">Địa chỉ văn phòng</h4>
             <h5 class="footer-address">Tầng 3, số 9A, ngõ 9, Hoàng Cầu, Đống Đa, Hà Nội</h5>
          </div>
