@@ -13,7 +13,7 @@
             <div class="input-group mb-3 mt-3">
                <input type="text" class="form-control" placeholder="Nhập email">
                <div class="input-group-append">
-                  <button class="btn btn-secondary" type="button">Button</button>
+                  <button class="btn btn-secondary" type="button">Gửi</button>
                </div>
             </div>
             <div class="footer-icon d-flex justify-content-sm-center justify-content-md-start">
