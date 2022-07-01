@@ -7,7 +7,7 @@
        </div>
        <div class="row mt-5">
            <div class="col-md-4 col-sm-12 info-item text-center about">
-               <img class="info-item-img" src="{{ asset('assets/img/avt.jpg') }}" alt="">
+               <img class="info-item-img" src="{{ asset('assets/img/avt1.jpg') }}" alt="">
                <h4 class="info-item-name">Thu Hồng</h4>
                <h4 class="info-item-sub">TỔNG GIÁM ĐỐC</h4>
                <p class="paragraph">
@@ -17,23 +17,19 @@
                </p>
            </div>
            <div class="col-md-4 col-sm-12 info-item text-center about">
-               <img class="info-item-img" src="{{ asset('assets/img/avt.jpg') }}" alt="">
-               <h4 class="info-item-name">Thu Hồng</h4>
-               <h4 class="info-item-sub">TỔNG GIÁM ĐỐC</h4>
+               <img class="info-item-img" src="{{ asset('assets/img/avt2.jpg') }}" alt="">
+               <h4 class="info-item-name">Tất Đinh</h4>
+               <h4 class="info-item-sub">GIÁM ĐỐC KINH DOANH</h4>
                <p class="paragraph">
-                   Là CEO của Công Ty TNHH MTV Thương Mại - Dịch Vụ Nam Bắc. Trực tiếp điều hành và giải quyết tất cả
-                   vấn đề
-                   nội ngoại bộ.
+                  Là người điều hành và quản lý trực tiếp các việc kinh doanh của Tổng Công Ty.
                </p>
            </div>
            <div class="col-md-4 col-sm-12 info-item text-center about">
-               <img class="info-item-img" src="{{ asset('assets/img/avt.jpg') }}" alt="">
-               <h4 class="info-item-name">Thu Hồng</h4>
-               <h4 class="info-item-sub">TỔNG GIÁM ĐỐC</h4>
+               <img class="info-item-img" src="{{ asset('assets/img/avt3.jpg') }}" alt="">
+               <h4 class="info-item-name">Ngô Gia Đạt</h4>
+               <h4 class="info-item-sub">GIÁM ĐỐC KINH DOANH</h4>
                <p class="paragraph">
-                   Là CEO của Công Ty TNHH MTV Thương Mại - Dịch Vụ Nam Bắc. Trực tiếp điều hành và giải quyết tất cả
-                   vấn đề
-                   nội ngoại bộ.
+                  Là người điều hành và quản lý trực tiếp các việc kinh doanh của Tổng Công Ty.
                </p>
            </div>
        </div>
