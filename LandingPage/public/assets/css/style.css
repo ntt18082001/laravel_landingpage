@@ -262,6 +262,64 @@ li {
       width: 225px;
       height: 225px;
   }
+  .banner {
+      text-align: center;
+   }
+
+   .thanhphan .img-thanhphan {
+      border: none !important;
+      justify-content: start !important;
+      width: auto !important;
+      height: auto !important;
+      margin: 0 !important;
+      align-items: flex-end !important;
+   }
+
+   .box-thanhphan {
+      height: 1080px;
+   }
+
+   .thanhphan {
+      height: 820px !important;
+   }
+
+   .thanhphan .thanhphan-main {
+      top: 0 !important;
+      left: 0 !important;
+   }
+   .thanhphan .thanhphan-main2 {
+      top: 85px !important;
+      left: 70px !important;
+      flex-direction: row-reverse;
+   }
+   .thanhphan .thanhphan-main2 h4, .thanhphan .thanhphan-main3 h4, .thanhphan .thanhphan-main4 h4 {
+      margin-left: 15px !important;
+   }
+   .thanhphan .thanhphan-main3 {
+      top: 190px !important;
+      left: 130px !important;
+      flex-direction: row-reverse;
+   }
+   .thanhphan .thanhphan-main4 {
+      top: 310px !important;
+      left: 130px !important;
+      flex-direction: row-reverse;
+   }
+   .thanhphan .thanhphan-main5 {
+      top: 420px !important;
+      left: 70px !important;
+   }
+   .thanhphan .thanhphan-main6 {
+      top: 520px !important;
+      left: 0 !important;
+   }
+   .thanhphan .tp img {
+      width: 70px !important;
+      height: 70px !important;
+   }
+   .thanhphan .tp h4 {
+      font-size: 20px !important;
+   }
 }
 
 .box-thanhphan {
@@ -333,7 +391,7 @@ li {
 .thanhphan .thanhphan-main2 {
    padding: 15px;
    top: 150px;
-   left: 290px;
+   left: 240px;
    text-align: center;
    display: flex;
    align-items: center;
@@ -342,7 +400,7 @@ li {
 .thanhphan .thanhphan-main3 {
    padding: 15px;
    top: 350px;
-   left: 290px;
+   left: 260px;
    text-align: center;
    display: flex;
    align-items: center;
@@ -351,7 +409,7 @@ li {
 .thanhphan .thanhphan-main4 {
    padding: 15px;
    top: 480px;
-   left: 470px;
+   left: 430px;
    text-align: center;
    display: flex;
    align-items: center;
@@ -365,7 +423,7 @@ li {
 .thanhphan .thanhphan-main5 {
    padding: 15px;
    top: 150px;
-   left: 770px;
+   left: 780px;
    text-align: center;
    display: flex;
    align-items: center;
@@ -374,7 +432,7 @@ li {
 .thanhphan .thanhphan-main6 {
    padding: 15px;
    top: 350px;
-   left: 770px;
+   left: 780px;
    text-align: center;
    display: flex;
    align-items: center;

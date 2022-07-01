@@ -12,24 +12,24 @@
                 <h4>Vaselin</h4>
             </div>
             <div class="tp thanhphan-main2">
-                <h4>Vaselin</h4>
-                <img src="{{ asset('assets/img/avt.jpg') }}" alt="">
+               <h4>Acid Sieric</h4>
+               <img src="{{ asset('assets/img/avt.jpg') }}" alt="">
             </div>
             <div class="tp thanhphan-main3">
-                <h4>Vaselin</h4>
+               <h4>Perfume</h4>
                 <img src="{{ asset('assets/img/avt.jpg') }}" alt="">
             </div>
             <div class="tp thanhphan-main4">
-                <h4>Vaselin</h4>
+                <h4>Vitamin E</h4>
                 <img src="{{ asset('assets/img/avt.jpg') }}" alt="">
             </div>
             <div class="tp thanhphan-main5">
                 <img src="{{ asset('assets/img/avt.jpg') }}" alt="">
-                <h4>Vaselin</h4>
+                <h4>Titan Dyoxyd</h4>
             </div>
             <div class="tp thanhphan-main6">
                 <img src="{{ asset('assets/img/avt.jpg') }}" alt="">
-                <h4>Vaselin</h4>
+                <h4>Cetyl alcohol</h4>
             </div>
         </div>
     </div>

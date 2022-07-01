@@ -5,7 +5,7 @@
        <div class="line"></div>
    </div>
    <div class="row mt-5">
-       <div class="col-md-4 col-sm-12 info-item text-center">
+       <div class="col-md-4 col-sm-12 info-item text-center about">
            <img class="info-item-img" src="{{ asset('assets/img/avt.jpg') }}" alt="">
            <h4 class="info-item-name">Thu Hồng</h4>
            <h4 class="info-item-sub">TỔNG GIÁM ĐỐC</h4>
@@ -15,7 +15,7 @@
                nội ngoại bộ.
            </p>
        </div>
-       <div class="col-md-4 col-sm-12 info-item text-center">
+       <div class="col-md-4 col-sm-12 info-item text-center about">
            <img class="info-item-img" src="{{ asset('assets/img/avt.jpg') }}" alt="">
            <h4 class="info-item-name">Thu Hồng</h4>
            <h4 class="info-item-sub">TỔNG GIÁM ĐỐC</h4>
@@ -25,7 +25,7 @@
                nội ngoại bộ.
            </p>
        </div>
-       <div class="col-md-4 col-sm-12 info-item text-center">
+       <div class="col-md-4 col-sm-12 info-item text-center about">
            <img class="info-item-img" src="{{ asset('assets/img/avt.jpg') }}" alt="">
            <h4 class="info-item-name">Thu Hồng</h4>
            <h4 class="info-item-sub">TỔNG GIÁM ĐỐC</h4>

@@ -5,56 +5,56 @@
         MTV Thương Mại - Dịch Vụ Nam Bắc
     </h3>
     <div class="row mt-4">
-        <div class="col-md-3 mb-4 col-sm-6 staff-item text-center">
+        <div class="col-md-3 mb-4 col-sm-6 staff-item text-center staff">
             <div class="staff-box-img mb-3">
                 <img class="staff-item-img" src="{{ asset('assets/img/avt.jpg') }}" alt="">
             </div>
             <h4 class="staff-item-name">Thu Hồng</h4>
             <h4 class="staff-item-sub">TỔNG GIÁM ĐỐC</h4>
         </div>
-        <div class="col-md-3 mb-4 col-sm-6 staff-item text-center">
+        <div class="col-md-3 mb-4 col-sm-6 staff-item text-center staff">
             <div class="staff-box-img mb-3">
                 <img class="staff-item-img" src="{{ asset('assets/img/avt.jpg') }}" alt="">
             </div>
             <h4 class="staff-item-name">Thu Hồng</h4>
             <h4 class="staff-item-sub">TỔNG GIÁM ĐỐC</h4>
         </div>
-        <div class="col-md-3 mb-4 col-sm-6 staff-item text-center">
+        <div class="col-md-3 mb-4 col-sm-6 staff-item text-center staff">
             <div class="staff-box-img mb-3">
                 <img class="staff-item-img" src="{{ asset('assets/img/avt.jpg') }}" alt="">
             </div>
             <h4 class="staff-item-name">Thu Hồng</h4>
             <h4 class="staff-item-sub">TỔNG GIÁM ĐỐC</h4>
         </div>
-        <div class="col-md-3 mb-4 col-sm-6 staff-item text-center">
+        <div class="col-md-3 mb-4 col-sm-6 staff-item text-center staff">
             <div class="staff-box-img mb-3">
                 <img class="staff-item-img" src="{{ asset('assets/img/avt.jpg') }}" alt="">
             </div>
             <h4 class="staff-item-name">Thu Hồng</h4>
             <h4 class="staff-item-sub">TỔNG GIÁM ĐỐC</h4>
         </div>
-        <div class="col-md-3 mb-4 col-sm-6 staff-item text-center">
+        <div class="col-md-3 mb-4 col-sm-6 staff-item text-center staff">
             <div class="staff-box-img mb-3">
                 <img class="staff-item-img" src="{{ asset('assets/img/avt.jpg') }}" alt="">
             </div>
             <h4 class="staff-item-name">Thu Hồng</h4>
             <h4 class="staff-item-sub">TỔNG GIÁM ĐỐC</h4>
         </div>
-        <div class="col-md-3 mb-4 col-sm-6 staff-item text-center">
+        <div class="col-md-3 mb-4 col-sm-6 staff-item text-center staff">
             <div class="staff-box-img mb-3">
                 <img class="staff-item-img" src="{{ asset('assets/img/avt.jpg') }}" alt="">
             </div>
             <h4 class="staff-item-name">Thu Hồng</h4>
             <h4 class="staff-item-sub">TỔNG GIÁM ĐỐC</h4>
         </div>
-        <div class="col-md-3 mb-4 col-sm-6 staff-item text-center">
+        <div class="col-md-3 mb-4 col-sm-6 staff-item text-center staff">
             <div class="staff-box-img mb-3">
                 <img class="staff-item-img" src="{{ asset('assets/img/avt.jpg') }}" alt="">
             </div>
             <h4 class="staff-item-name">Thu Hồng</h4>
             <h4 class="staff-item-sub">TỔNG GIÁM ĐỐC</h4>
         </div>
-        <div class="col-md-3 mb-4 col-sm-6 staff-item text-center">
+        <div class="col-md-3 mb-4 col-sm-6 staff-item text-center staff">
             <div class="staff-box-img mb-3">
                 <img class="staff-item-img" src="{{ asset('assets/img/avt.jpg') }}" alt="">
             </div>

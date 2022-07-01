@@ -2,7 +2,7 @@
    opacity: 0;
 }
 .product .timeline2 {
-   transition: ease-in-out ;
+   transition: ease-in-out;
    animation: timeline 2s forwards;
 }
 
@@ -214,5 +214,152 @@
      transform: translateX(-50%) scale(1);
    }
  }
+
+ .tp {
+   opacity: 0;
+ }
+
+ .animation-tp1 {
+   transition: ease-in-out;
+   animation: thanhphan1 1.5s forwards;
+ }
  
- 
+ @keyframes thanhphan1 {
+   from {
+      opacity: 0;
+      transform: translateY(-50%);
+   }
+   to {
+      opacity: 1;
+      transform: translateY(0);
+   }
+ }
+ .animation-tp2, .animation-tp3 {
+   animation: thanhphan2 1.5s forwards;
+ }
+ @keyframes thanhphan2 {
+   from {
+      opacity: 0;
+      transform: translateX(-50%);
+   }
+   to {
+      opacity: 1;
+      transform: translateY(0);
+   }
+ }
+ .animation-tp4 {
+   animation: thanhphan4 1.5s forwards;
+ }
+ @keyframes thanhphan4 {
+   from {
+      opacity: 0;
+      transform: translateY(50%);
+   }
+   to {
+      opacity: 1;
+      transform: translateY(0);
+   }
+ }
+
+ .animation-tp5, .animation-tp6 {
+   animation: thanhphan5 1.5s forwards;
+ }
+ @keyframes thanhphan5 {
+   from {
+      opacity: 0;
+      transform: translateX(50%);
+   }
+   to {
+      opacity: 1;
+      transform: translateY(0);
+   }
+ }
+
+ .about {
+   opacity: 0;
+ }
+
+ .animation-about1 {
+   transition: ease-in-out;
+   animation: about1 1.5s forwards;
+ }
+
+ @keyframes about1 {
+   from {
+      opacity: 0;
+      transform: translateX(-50%);
+   }
+   to {
+      opacity: 1;
+      transform: translateX(0);
+   }
+ }
+
+ .animation-about2 {
+   transition: ease-in-out;
+   animation: about2 1.5s forwards;
+ }
+
+ @keyframes about2 {
+   from {
+      opacity: 0;
+      transform: translateY(-50%);
+   }
+   to {
+      opacity: 1;
+      transform: translateX(0);
+   }
+ }
+
+ .animation-about3 {
+   transition: ease-in-out;
+   animation: about3 1.5s forwards;
+ }
+
+ @keyframes about3 {
+   from {
+      opacity: 0;
+      transform: translateX(50%);
+   }
+   to {
+      opacity: 1;
+      transform: translateX(0);
+   }
+ }
+
+ .staff {
+   opacity: 0;
+ }
+
+ .animation-staff1 {
+   transition: ease-in-out;
+   animation: about2 1.5s forwards;
+ }
+ .animation-staff2 {
+   transition: ease-in-out;
+   animation: about2 1.5s forwards;
+ }
+ .animation-staff3 {
+   transition: ease-in-out;
+   animation: about3 1.5s forwards;
+ }
+ .animation-staff4 {
+   transition: ease-in-out;
+   animation: about3 1.5s forwards;
+ }
+ .animation-staff5 {
+   transition: ease-in-out;
+   animation: about1 1.5s forwards;
+ }
+ .animation-staff6 {
+   transition: ease-in-out;
+   animation: about1 1.5s forwards;
+ }
+ .animation-staff7 {
+   transition: ease-in-out;
+   animation: about2 1.5s forwards;
+ }
+ .animation-staff8 {
+   transition: ease-in-out;
+   animation: about2 1.5s forwards;
+ }
