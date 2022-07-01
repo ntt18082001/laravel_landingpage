@@ -1,4 +1,4 @@
-<div class="banner">
+<div class="banner" id="banner">
    <div class="container">
        <div class="row">
            <div class="col-md-6 col-sm-12"></div>

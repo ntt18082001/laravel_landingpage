@@ -1,4 +1,4 @@
-<div class="register text-center">
+<div class="register text-center" id="register">
    <div class="container">
        <h3 class="register-title">Đăng ký miễn phí</h3>
        <h4 class="register-sub">Hãy để lại thông tin liên hệ của bạn để nhận thông tin miễn phí từ chúng tôi</h4>

@@ -1,4 +1,4 @@
-<div class="box-thanhphan">
+<div class="box-thanhphan" id="product2">
     <div class="container product mt-5">
         <h3 class="product-title mb-4">THÀNH PHẦN</h3>
         <h3 class="txt-thanhphan">Được chiếc xuất với thành phần 100% tự nhiên</h3>

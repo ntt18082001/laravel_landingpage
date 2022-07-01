@@ -1,5 +1,6 @@
-<div class="container product">
-    <h3 class="product-title">CÔNG DỤNG</h3>
+<div class="container" id="product1">
+    <div class="product mt-5">
+      <h3 class="product-title">CÔNG DỤNG</h3>
     <div class="row mt-3">
         <div class="col-md-6 col-sm-12 d-flex">
             <div class="card" style="width: 18rem; margin: auto;">
@@ -43,5 +44,6 @@
                 </li>
             </ul>
         </section>
+    </div>
     </div>
 </div>
