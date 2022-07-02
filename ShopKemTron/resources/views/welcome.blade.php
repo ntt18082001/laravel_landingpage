@@ -5,6 +5,8 @@
 
    <x-product2 />
 
+   <x-other-product />
+
    <x-buy-now />
 
    <x-about />
