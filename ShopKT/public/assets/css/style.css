@@ -283,10 +283,11 @@ li {
       height: auto !important;
       margin: 0 !important;
       align-items: flex-end !important;
+      display: none !important;
    }
 
    .box-thanhphan {
-      height: 1080px;
+      height: 820px;
    }
 
    .thanhphan {
