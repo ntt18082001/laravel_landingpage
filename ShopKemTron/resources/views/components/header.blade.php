@@ -16,9 +16,6 @@
             <a class="nav-link" href="#otherProduct">Sản phẩm khác</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#buynow">Link 3</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="#about">Giới thiệu</a>
           </li>
           <li class="nav-item">

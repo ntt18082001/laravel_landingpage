@@ -1,5 +1,5 @@
-<div id="about" class="infomation container">
-   <div class=" mt-5 mb-5">
+<div id="about" class="infomation container" style="overflow: hidden;">
+   <div class="mt-5 mb-5">
        <h3 class="info-title">15,000+ khách hàng sử dụng Diamond Rose x8</h3>
        <h4 class="info-sub-title">Sự hài lòng của khách hàng chính là thành công lớn nhất của chúng tôi</h4>
        <div class="line-container mt-5">

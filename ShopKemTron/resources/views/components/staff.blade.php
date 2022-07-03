@@ -1,4 +1,4 @@
-<div class="container product" id="staff">
+<div class="container product" id="staff" style="overflow: hidden;">
    <div class="mt-5">
        <h3 class="product-title">ĐỘI NGŨ NHÂN SỰ</h3>
        <h3 class="product-sub-title m-auto" style="width: 50%;">
