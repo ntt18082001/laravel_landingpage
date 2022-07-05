@@ -11,7 +11,8 @@ body {
    padding: 0;
    box-sizing: border-box;
 }
-body{
+
+body {
    background-image: linear-gradient(rgb(255, 246, 249), rgb(254, 229, 214), rgb(217, 240, 241));
 }
 
@@ -67,7 +68,8 @@ li {
 .banner .banner-slogan {
    text-shadow: 2px 2px 2px white;
 }
-.product-name{
+
+.product-name {
    color: var(--primary-color);
 }
 
@@ -284,7 +286,7 @@ li {
    }
 
    .banner-slogan span {
-      font-size: 45px;
+      font-size: 30px;
    }
 
    .thanhphan .img-thanhphan {
@@ -490,23 +492,36 @@ li {
    border-radius: 100rem;
 }
 
-.card{
-   --bs-card-border-radius: 1.2rem!important;
+.card {
+   --bs-card-border-radius: 1.2rem !important;
 }
 
-.tel{
+.tel {
    padding: 0.75rem;
 }
-.tel img{
+
+.tel img {
    height: 55px;
 }
-.banner-slogan{
+
+.banner-slogan {
    height: 100px;
    line-height: 100px;
 }
-.big-char{
-   font-size: 100px!important;
+
+.big-char {
+   font-size: 100px !important;
    line-height: 0px;
-   color: rgb(253, 255, 227)!important;
-   text-shadow: none!important;
+   color: rgb(253, 255, 227) !important;
+   text-shadow: none !important;
+}
+
+@media (max-width: 768px) {
+   .show-on-desktop {
+      display: none !important;
+   }
+   .big-char {
+      font-size: 90px !important;
+   }
+   
 }

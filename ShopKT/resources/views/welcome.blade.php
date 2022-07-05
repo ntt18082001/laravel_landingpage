@@ -15,7 +15,7 @@
 
    <x-register />
 
-   <!-- Modal -->
+   <!-- Modal đăng ký-->
    <div class="modal fade" id="modalOrder" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
        aria-labelledby="staticBackdropLabel" aria-hidden="true">
        <div class="modal-dialog modal-md">
@@ -38,6 +38,19 @@
                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Hủy</button>
                        </div>
                    </form>
+               </div>
+           </div>
+       </div>
+   </div>
+
+   <!-- Popup khi mở web -->
+   <div class="modal fade" id="modalStartup" tabindex="-1" aria-hidden="true">
+       <div class="modal-dialog modal-lg modal-dialog-centered">
+           <div class="modal-content border-0 bg-transparent">
+               <div class="modal-body">
+                   <img class="w-100 rounded-3 d-md-none" src="{{asset('assets/img/startup/mobile.jpg')}}" alt="Thông tin quảng cáo" />
+                   <img class="w-100 rounded-3 show-on-desktop" src="{{asset('assets/img/startup/desktop.jpg')}}" alt="Thông tin quảng cáo" />
+                   <span class="btn-close position-absolute top-0 end-0 bg-light" data-bs-dismiss="modal" aria-label="Close"></span>
                </div>
            </div>
        </div>

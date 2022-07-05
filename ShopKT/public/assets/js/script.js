@@ -32,3 +32,22 @@ $(".btn-submit").on("click", function(ev) {
       }
    });
 });
+
+$(function(){
+   var sessionData = sessionStorage.getItem("modalStartup");
+   if (!sessionData){
+      $("#modalStartup").modal("show");
+      sessionStorage.setItem("modalStartup", Date.now());
+      return;
+   }
+
+   var preAccess = Number(sessionData);
+   var now = Date.now();
+   var dateDiffInMinutes = (now - preAccess) / (1000 * 60);
+   // 10 phút sẽ hiện lại
+   if (dateDiffInMinutes > 10){
+      $("#modalStartup").modal("show");
+      sessionStorage.setItem("modalStartup", Date.now());
+      return;
+   }
+})

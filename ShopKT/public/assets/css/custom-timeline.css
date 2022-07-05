@@ -363,3 +363,23 @@
    transition: ease-in-out;
    animation: about2 1.5s forwards;
  }
+ .animation-staff9 {
+   transition: ease-in-out;
+   animation: about3 1.5s forwards;
+ }
+ .animation-staff10 {
+   transition: ease-in-out;
+   animation: about3 1.5s forwards;
+ }
+ .animation-staff11 {
+   transition: ease-in-out;
+   animation: about1 1.5s forwards;
+ }
+ .animation-staff12 {
+   transition: ease-in-out;
+   animation: about1 1.5s forwards;
+ }
+ .animation-staff13 {
+   transition: ease-in-out;
+   animation: about2 1.5s forwards;
+ }
