@@ -1,12 +1,16 @@
 <div class="container" id="product1">
    <div class="product mt-5">
-     <h3 class="product-title">CÔNG DỤNG</h3>
-   <div class="row mt-3">
+    <h1 class="text-center">HIỆU QUẢ MANG LẠI</h1>
+   <div class="row mt-4">
        <div class="col-md-6 col-sm-12 d-flex">
-           <div class="card" style="width: 18rem; margin: auto;">
-               <img src="{{ asset('assets/img/img-product.png') }}" class="card-img-top" alt="...">
+           <div class="card border-0" style="width: 18rem; margin: auto;">
+               <img src="{{ asset('assets/img/sp1.png') }}" class="card-img-top" alt="...">
                <div class="card-body">
-                   <h5 class="card-title text-center">Sản phẩm 01</h5>
+                   <h5 class="card-title text-center product-name">
+                        <span class="text-primary">DIAMOND</span>
+                        <span class="">ROSE</span>
+                        <span class="text-primary">X8</span>
+                    </h5>
                </div>
            </div>
        </div>

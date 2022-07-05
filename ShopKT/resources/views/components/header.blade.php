@@ -1,6 +1,6 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top shadow border-bottom">
    <div class="container-fluid">
-     <a class="navbar-brand" href="/">Shop</a>
+     <a class="navbar-brand text-danger fw-bold" href="/">CÔNG TY TMDV NAM BẮC</a>
      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
        <span class="navbar-toggler-icon"></span>
      </button>

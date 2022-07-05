@@ -1,14 +1,16 @@
-<div class="banner" id="banner">
+<div class="banner mt-5" id="banner">
    <div class="container">
        <div class="row">
            <div class="col-md-6 col-sm-12"></div>
            <div class="col-md-6 col-sm-12 text-sm-center text-md-start">
                <img src="{{ asset('assets/img/sp1.png') }}" alt="">
                <h3 class="banner-title">Kem Dưỡng Trắng Da</h3>
-               <h4 class="banner-slogan d-md-flex">
-                   <span class="text-primary me-3">DIAMON</span>
+               <h4 class="banner-slogan d-flex">
+                   <span class="text-primary me-3">
+                    <span class="big-char">D</span>IAMOND
+                    </span>
                    <span class="me-3">ROSE</span>
-                   <span class="text-primary">X8</span>
+                   <span class="text-black">X8</span>
                </h4>
                <p class="paragraph">
                    Là sản phẩm được nhiều khách hàng săn đón và yêu thích vì những ưu điểm vượt bậc mà nó đem lại khi

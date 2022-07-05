@@ -1,4 +1,4 @@
-<div class="ts mt-5" id="buynow">
+<div class="ts mt-5 d-none" id="buynow">
    <div class="container" style="padding-top: 70px;">
        <div class="shape text-center">
            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 32" version="1.0" fit=""
